@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+body {
+}
+div {
+  color: #fff;
+  background-color: #c20b0b;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 80px;
+  padding: 60px;
+  border-radius: 15px;
+  box-shadow: 20px 10px 30px -11px black;
+}
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+  line-height: 30px;
+}
